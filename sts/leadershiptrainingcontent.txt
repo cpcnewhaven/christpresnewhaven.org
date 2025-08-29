@@ -1,0 +1,20 @@
+<CENTER>
+<H2>
+Leadership Training Materials
+</H2>
+</CENTER>
+
+<UL>
+<LI>
+<A HREF="javascript:parent.location='leadershiptraining/what is a christian.pdf'"><I>What is a Christian?</I> by Preston Graham</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='leadershiptraining/centrality.pdf'"><I>The Centrality of the Gospel</I> by Tim Keller</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='leadershiptraining/Excerpt from Lee Iron.pdf'">Excerpt from <I>The Sabbath as an Eschatological Sign of the Covenant (Part 1 and 2)</I> by Lee Irons</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='leadershiptraining/Married to Another.pdf'"><I>Married to Another</I> by Lee Irons</A></LI>
+
+</UL>

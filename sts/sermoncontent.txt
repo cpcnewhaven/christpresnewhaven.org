@@ -1,0 +1,49 @@
+<CENTER>
+<H2>
+Sermons of Christ Presbyterian Church, New Haven
+</H2>
+<H5>(Each sermon is derived from an extended outline used by the pastor.
+All sermons were preached by Preston Graham, Jr. unless otherwise
+noted.)
+</H5>
+</CENTER>
+
+<UL>
+<LI>
+Our <A HREF="javascript:parent.location='sermons/currentseriesindex.html'">Current Sermon Series</A></LI>
+
+<LI>
+On <A HREF="javascript:parent.location='sermons/churchleadershipindex.html'">Church
+Leadership</A></LI>
+
+<LI>
+On <A HREF="javascript:parent.location='sermons/churchsacramentsindex.html'">Church
+Sacraments</A></LI>
+
+<LI>
+On <A HREF="javascript:parent.location='sermons/familywisdomindex.html'">Family
+Wisdom</A></LI>
+
+<LI>
+On <A HREF="javascript:parent.location='sermons/wisdomindex.html'">Wisdom</A></LI>
+
+<LI>
+On "<A HREF="javascript:parent.location='sermons/justificationofgodindex.html'">The
+Justification of God</A>"</LI>
+
+<LI>
+In <A HREF="javascript:parent.location='sermons/genesisindex.html'">Genesis</A></LI>
+
+<LI>
+In <A HREF="javascript:parent.location='sermons/1corindex.html'">1
+Corinthians</A></LI>
+
+<LI>
+In <A HREF="javascript:parent.location='sermons/1peterindex.html'">1 Peter</A></LI>
+
+<LI>
+In <A HREF="javascript:parent.location='sermons/revindex.html'">Revelation</A></LI>
+
+<LI>
+In <A HREF="javascript:parent.location='sermons/johnindex.html'">John</A></LI>
+</UL>

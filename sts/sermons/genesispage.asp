@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>Christ Presbyterian Church, Sermons in Genesis</TITLE>
+
+</HEAD>
+
+<BODY>
+
+<A NAME="cpctop">
+<TABLE WIDTH=575 BORDER=0>
+<TR>
+<TD>
+<!--#include file="genesiscontent.txt" -->
+</TD>
+</TR>
+</TABLE>
+</A>
+
+<!--#include virtual="/footer3.txt" -->
+
+</BODY>
+
+</HTML>

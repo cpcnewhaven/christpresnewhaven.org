@@ -1,0 +1,32 @@
+<H2 ALIGN=center>Featured Sermon</H2>
+<P>
+The links below will take you to our current featured sermon. Please
+click on the option that most closely decribes your internet connection type.
+</P>
+<P>
+For now, we are using the RealMedia audio format to bring you this
+content. If you do not have a RealMedia player, you can download one
+for free by clicking on the icon at the bottom of this page and
+following the links to the free version of the player.
+</P>
+<P>
+<B>The Rare Jewel of Christian Contentment - Exodus 20:17:</B>&nbsp&nbsp
+<A HREF="sermons/audio/pgex20du.ram">56k modem</A>&nbsp&nbsp
+<A HREF="sermons/audio/pgex20cm.ram">cable modem</A><BR>
+Pastor Preston Graham Jr.<BR>
+<P>
+For some dowloadable audio files of sermons recently preached at CPC, please be sure to see the <A HREF="javascript:parent.location='sermons/downloadsindex.html'">instructions</A> listed under the "Media" section of our website.
+</P>
+<U>Prior Featured Sermons:</U><BR>
+The Ultimate Passover - Exodus 12:1-28:&nbsp&nbsp
+<A HREF="sermons/audio/pgex12du.ram">56k modem</A>&nbsp&nbsp
+<A HREF="sermons/audio/pgex12cm.ram">cable modem</A><BR>
+Pastor Preston Graham Jr.<BR><BR>
+The One - 1 Timothy 2:15:&nbsp&nbsp
+<A HREF="sermons/audio/pg1tim2-15du.ram">56k modem</A>&nbsp&nbsp
+<A HREF="sermons/audio/pg1tim2-15cm.ram">cable modem</A><BR>
+Pastor Preston Graham Jr.<BR><BR>
+<IMG SRC="../images/rprod_on.gif" BORDER=0>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<A HREF="javascript:parent.location='http://www.real.com/realoneplayer.html'"><IMG SRC="../images/rmgetfree.jpg" BORDER=0>
+</A>
+</P>

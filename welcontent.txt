@@ -1,0 +1,110 @@
+<SCRIPT Language="JavaScript">
+<!--
+// To preload the images
+newcdu = new Image(100,24)
+newcdu.src = "images/newcdu.gif"
+newcdd = new Image(100,24)
+newcdd.src = "images/newcdd.gif"
+// -->
+</SCRIPT>
+<P>
+<TABLE WIDTH=320 ALIGN=RIGHT>
+<TR>
+<TD>
+<IMG SRC="images/cpcrendering.jpg" NAME="studycenterpic" ALIGN=CENTER WIDTH=300 HEIGHT=250 BORDER=1 HSPACE=10 VSPACE=10>
+</TD>
+</TR>
+<TR>
+<TD ALIGN=CENTER>
+<A HREF="javascript:parent.location='cd'">
+<IMG SRC="images/newcdu.gif" NAME="newcdbutton" ONMOUSEOVER = "document.newcdbutton.src = 'images/newcdd.gif'" ONMOUSEOUT = "document.newcdbutton.src = 'images/newcdu.gif'" ALIGN=CENTER ALT="Click Here for the New CD" WIDTH=175 HEIGHT=24 BORDER=0 HSPACE=0 VSPACE=0
+></A>
+</TD>
+</TR>
+</TABLE>
+<H2>
+Welcome to Christ Presbyterian Church!
+</H2>
+</P>
+<P>
+We are a church that is ambitious for the glory of God with thanksgiving
+for His amazing grace by<BR>
+<B>Growing</B> in the truth and grace revealed in Jesus Christ,<BR>
+<B>Acting</B> as a faithful witness in the greater New Haven community, in
+New England and in the world,<BR>
+<B>Trusting</B> in the power and presence of the Holy Spirit.
+</P>
+<P>
+<FONT COLOR="000055">To see a welcome letter from our pastor<A HREF="javascript:parent.location='oth/welcome_letter.htm'"> follow this link </A>.</FONT>
+</P>
+<HR>
+<P ALIGN=CENTER>
+<FONT COLOR="00BB00"><B>Special Easter Week Events...</B><BR></FONT>
+<B>"Cracking the Easter Code".
+Tuesday March 22, 7:30 PM
+The New Haven Colony Historical Society. </B>
+ 
+Please join the pastors from St. John's Episcopal, Trinity Baptist and Christ Presbyterian for a joint panel discussion on the meaning of Easter, moderated by Jennifer Gross, Curator of Modern and Contemporary Art, Yale University Art Gallery. 
+There will be a Q & A following the brief presentations. Please come and bring your friends. 
+For More Information: 777-6960
+(Please note change - Maundy Thursday Services have been changed to the above) <BR>
+<B>Good Friday Service </B>March 25th at 7:00 pm<BR>
+<B><FONT COLOR="00BB00">Easter Sunday Services</FONT></B> - March 27th. 
+First service 9:15.  Second service 11:15. (No Sunday School)<BR>
+<B>Easter Fellowship Meals in-home</B> - "Our doors are open" Please join us in our homes for an Easter fellowship meal. If you would like to join a host family for Easter or would like to host - please see sign-up on the foyer table. Special note - we ask our congregation to consider going to their usual Sunday service (1st or 2nd) on Easter morning to avoid overcrowding at either worship service. Thank you. 
+</P>
+ 
+<HR>
+
+<P>
+
+Christ Presbyterian Church is a congregation of the Presbyterian Church in America (PCA), a growing denomination committed to the historic Christian faith and to biblical values and mission.  We desire our ministry to be consistent with the well established principles of the classic Reformed faith while also being relevant to modern life.  We desire to be an accepting, unpretentious people who experience God's grace through Christ, even as we seek to extend God's grace through church planting in New England and throughout the world.
+</P>
+
+<!--<B><U><FONT COLOR="red">Due to winter weather, Christmas service will be rescheduled to Friday, Dec 19 at 7 pm (elder's party to follow)</FONT></B></U><BR>-->
+
+<!--<U>On Easter Sunday, April 11th, we will have the 11:15 service only<BR>(there will be no 8:15 service or Sunday school)</U><BR>-->
+<HR>
+
+<P ALIGN=CENTER>
+<B><FONT COLOR="#005555"> Sunday worship schedule</FONT><BR>
+<FONT COLOR="#0000FF">1st worship service 8:15am, Sunday School 10:00am, 2nd worship service 11:15am  </FONT></B><BR>
+<!-- <B><FONT COLOR="5555CC"> December 26th and January 2nd</FONT><FONT COLOR="#0000FF">: 11:15 worship service only (no Sunday School)  </FONT></B><BR> -->
+
+</P>
+<HR>
+<P ALIGN=CENTER>
+
+<B><FONT COLOR="006666"> Chapel/Study Center/Church Office: 135 Whitney Ave, New Haven, CT 06510<BR>
+Telephone Number: (203) 777-6960<BR>Senior Pastor: Preston D. Graham, Jr.<A HREF="javascript:parent.location='preston_bio.htm'">(bio)</A><BR>
+Administrative Assistant: Ilona McGowan - email: cpc.ilona@snet.net</FONT></B>
+<BR>
+(For the most up-to-date scheduling information please be sure to see the <A HREF="javascript:parent.location='oth/bulletinannouncements.htm'">bulletin announcements</A> or call the office at (203) 777-6960 and hit 5.)
+</P>
+<P>
+To hear what some others are saying, please see this <A HREF="javascript:parent.location='http://www.pca-mna.org/multiply/multiply2002/spring2002/spring2002.htm#NewHaven'">article</A> featuring our church.
+</P>
+<HR>
+<P ALIGN=CENTER>
+
+<B> Campus Ministry</B> <BR>
+
+<!-- Reformed University Fellowship is the campus ministry of CPC at Yale University and
+the University of New Haven.  Follow these links to 
+<A HREF="javascript:parent.location='oth/ruf_basics.htm'"> see a brief overview of this Ministry</A>
+, go to the
+ <A HREF="javascript:parent.location='http://www.yale.ruf.org'"> Yale RUF page</A>
+or contact Rev. Clay Daniel ( email: cpc.clay@snet.net)
+for more information.-->
+
+ Click 
+<A HREF="javascript:parent.location='oth/ruf_basics.htm'"> here</A> 
+to check out what's going on with the CPC college ministry, which includes students from several different
+universities and campus ministries. For on-campus opportunities, click 
+<A HREF="javascript:parent.location='http://www.yale.ruf.org'"> here</A> 
+to connect to Reformed University Fellowship
+(RUF), the campus ministry of Christ Pres at Yale University and the University of New Haven.
+
+</P> 
+
+

@@ -1,0 +1,354 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="smallgroups_6_30_06_files/filelist.xml">
+<title>Small Fellowship Groups at CPC </title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Christ Presbyterian Church</o:Author>
+  <o:Template>NORMAL</o:Template>
+  <o:LastAuthor>PADMIN</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>5</o:TotalTime>
+  <o:Created>2006-06-30T21:11:00Z</o:Created>
+  <o:LastSaved>2006-06-30T21:11:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>352</o:Words>
+  <o:Characters>2008</o:Characters>
+  <o:Lines>16</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2356</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:Compatibility>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:PMingLiU;
+	panose-1:2 1 6 1 0 1 1 1 1 1;
+	mso-font-alt:"Arial Unicode MS";
+	mso-font-charset:136;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 134742016 16 0 1048576 0;}
+@font-face
+	{font-family:"\@PMingLiU";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:136;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 134742016 16 0 1048576 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:PMingLiU;
+	mso-fareast-language:ZH-TW;}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-language:ZH-TW;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:PMingLiU;
+	mso-fareast-language:ZH-TW;}
+span.spelle
+	{mso-style-name:spelle;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellpadding=0 width=575 style='width:431.25pt;
+ mso-cellspacing:1.5pt'>
+ <tr style='mso-yfti-irow:0'>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <h2 align=center style='text-align:center'><a name=cpctop>Small Fellowship
+  Groups at CPC </a></h2>
+  <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><span style='mso-bookmark:cpctop'>(For upcoming
+  meeting times, please consult the </span>Small Group Fellowship Information
+  located in the <a
+  href="javascript:parent.location='../oth/bulletinannouncements.htm'">Bulletin
+  Announcements</a>.) </p>
+  <p>Another and very important way that you can get involved in “fellowship”
+  at CPC is to participate in a fellowship group. A fellowship group is
+  structured to be “the church in miniature,” a kind of “house church” albeit
+  informally expressed within closer geographical proximity to where a person
+  lives. The purpose of the fellowship group is to complement the one <span
+  class=SpellE><span class=spelle>anothering</span></span> we experience
+  corporately as a whole in a more personal and more readily available way.
+  Toward this end, there is most likely a fellowship group in your neighborhood!
+  Each group will participate together in informal teaching, worship, sharing,
+  prayer and in the provision of mutual help for one another in times of need.
+  Each group is assigned a trained “facilitator,” mercy coordinator,
+  host/hostess and worship leader. We strongly encourage everyone in the church
+  to participate in a “fellowship” group in order to experience the life of God
+  as expressed more locally and intimately through a small group context! </p>
+  <table class=MsoNormalTable border=0 cellspacing=5 cellpadding=0
+   style='mso-cellspacing:3.7pt;mso-padding-alt:0in 0in 0in 0in'>
+   <tr style='mso-yfti-irow:0'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><b>Area</b> </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><b>Group Leaders</b> </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><b>Email</b> </p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><st1:City><st1:place>Hamden</st1:place></st1:City> / <st1:City><st1:place>Cheshire</st1:place></st1:City>
+    </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Victor <span class=SpellE><span class=spelle>Patin</span></span> </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><a href="mailto:addmd@prodigy.net">addmd@prodigy.net</a> </p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><st1:place>West Side</st1:place> / <st1:City><st1:place>Trumbull</st1:place></st1:City>
+    </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Alan Phillips &amp;<br>
+    Gary <span class=SpellE><span class=spelle>Wininger</span></span> </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><a href="mailto:alanruth@optonline.net">alanruth@optonline.net</a></p>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><a href="mailto:garywininger@hotmail.com">garywininger@hotmail.com</a>
+    </p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Graduate Student /Professional (<st1:place><st1:PlaceName>Study</st1:PlaceName>
+     <st1:PlaceType>Center</st1:PlaceType></st1:place>) </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><span class=SpellE>Tolivar</span> Wills </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><a href="mailto:jacob.gramlich@yale.edu">cpctolivar@snet.net</a></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Shore Line </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Cliff <span class=SpellE><span class=spelle>Bogue</span></span> </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><a href="mailto:clifford.bogue@yale.edu">clifford.bogue@yale.edu</a> </p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:5'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Westville One </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Vince Calhoun &amp;<br>
+    Doug Bruce </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><a href="mailto:vince.calhoun@yale.edu">vince.calhoun@yale.edu</a> <a
+    href="mailto:robert.bruce@yale.edu">robert.bruce@yale.edu</a> </p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:6'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Westville Two </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Joe Shields &amp;<br>
+    Evan Finch </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><a href="mailto:joseph.shields@aya.yale.edu">joseph.shields@aya.yale.edu</a>
+    <a href="mailto:evan.finch@yale.edu">evan.finch@yale.edu</a> </p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:7'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><st1:City><st1:place>New Haven</st1:place></st1:City> – <st1:City><st1:place>Mansfield</st1:place></st1:City>
+    </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Larry Jorgensen<span style='mso-spacerun:yes'>   </span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><a href="mailto:larry.jorgensen@yale.edu">larry.jorgensen@yale.edu</a></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:8'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><st1:City><st1:place>New Haven</st1:place></st1:City> – East Rock</p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Dan <span class=SpellE>Cantey</span><span style='mso-spacerun:yes'> 
+    </span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><u>Dan.cantey@yale.edu <o:p></o:p></u></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:9;mso-yfti-lastrow:yes'>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><st1:City><st1:place>Orange</st1:place></st1:City></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'>Rick Olson </p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><u>Richard.olson@bms.com<o:p></o:p></u></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  style='mso-spacerun:yes'> </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <h2 align=center style='text-align:center'><o:p>&nbsp;</o:p></h2>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

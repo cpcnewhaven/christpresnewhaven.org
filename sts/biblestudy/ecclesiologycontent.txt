@@ -1,0 +1,35 @@
+<CENTER>
+<H2>
+Introduction to Reformed Ecclesiology<BR>
+</H2></CENTER>
+
+<UL>
+<LI>
+<A HREF="javascript:parent.location='ecclesiology/course_schedule.htm'">Course Schedule</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='ecclesiology/an_ecclesial_gospel.htm'">An Ecclesial Gospel</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='ecclesiology/presence_theology.htm'">Presence Theology</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='ecclesiology/worship.htm'">Covenantal Worship</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='ecclesiology/ecclesial_mission.htm'">Ecclesial Mission</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='ecclesiology/government.html'">Apostolic Government</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='ecclesiology/ecclesial_bibliography.html'">Ecclesial Bibliography</A>
+</LI>
+
+</UL>

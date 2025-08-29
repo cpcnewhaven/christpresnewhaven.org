@@ -1,0 +1,4 @@
+<B>In John:</B>
+<TABLE>
+ <tr><td nowrap><a href="javascript:parent.location='john15.1-17.pdf'">John 15:1-17</a><td><i>True Spirituality: Abiding in Christ</i> <br>
+</TABLE>

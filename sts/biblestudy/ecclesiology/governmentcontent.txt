@@ -1,0 +1,16 @@
+<CENTER>
+<H2>
+Apostolic Government<BR>
+</H2></CENTER>
+
+<UL>
+
+<LI>
+<A HREF="javascript:parent.location='erastianism.htm'">Erastianism Then and Now...</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='essentials_in_government.htm'">Essentials in Government</A>
+</LI>
+
+</UL>

@@ -1,0 +1,12 @@
+<CENTER>
+<H2>
+Christian Faith and Practice
+</H2>
+</CENTER>
+
+<UL>
+<LI>
+"<A HREF="javascript:parent.location='cfp/art_of_work.html'">Perspectives on the Work of Art</A>" by C.S. Clay (spring '99)</LI>
+
+</UL>
+

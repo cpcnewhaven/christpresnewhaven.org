@@ -1,0 +1,19 @@
+<CENTER>
+<H2>
+Dowloadable Sermons (MP3)
+</H2>
+</CENTER>
+
+<P>
+We hope to have a new media site up soon from which many past CPC 
+sermon series will be available.  In the meantime, we try to keep
+a number of the most recent sermons available at this
+<A HREF="javascript:parent.location='ftp://typographicservices.com/pub/'">FTP site</A>, from which you can download the sermons as MP3 files to your own
+machine.
+</P>
+<P>
+<IMG SRC="../../images/easter2.jpg" NAME="winterretreat" ALT="Winter Retreat '02" ALIGN=LEFT WIDTH=336 HEIGHT=224 BORDER=1 HSPACE=10 VSPACE=10>
+A couple of technical notes: as may be expected, these file are fairly large (approximately 10 MB), so anything other than a high speed internet connection may require a great deal of time when downloading.
+
+Please be patient as it may take a little while to open this site.  Also, be sure to refresh the ftp site table of contents if you have visited it already-otherwise it may be out of date.
+</P>

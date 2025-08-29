@@ -1,0 +1,11 @@
+<B>On Church Leadership:</B>
+<TABLE>
+ <TR><TD><A HREF="javascript:parent.location='1peter5.1-4.html'">1 Peter 5:1-4</A><TD><I>Working Together, </I>Part One:<I> Elders</I>
+ <TR><TD><A HREF="javascript:parent.location='1peter5.5.html'">1 Peter 5:5</A><TD><I>Working Together, </I>Part Two:<I> Younger Christians to their Elders</I>
+ <TR><TD><A HREF="javascript:parent.location='1tim.3.8-13.html'">1 Timothy 3:8-13</A><TD><I>Resume for Deacons</I>
+ <TR><TD><A HREF="javascript:parent.location='acts20.17-35.html'">Acts 20:17-35</A><TD><I>Apostolic Succession and Ordination</I>
+ <TR><TD><A HREF="javascript:parent.location='jn.13.34-35.html'">John 13:34-35</A><TD><I>United to one another in love</I>
+ <TR><TD><A HREF="javascript:parent.location='rom15.7-12.html'">Romans 15:7-12</A><TD><I>The Church's Mission, </I>Part One: <I>a multinational welcome!</I>
+ <TR><TD><A HREF="javascript:parent.location='titus1.5ff.html'">Titus 1:5ff</A><TD><I>Elder Qualifications</I>
+ <TR><TD><A HREF="javascript:parent.location='rom16.pdf'">Romans 16</A><TD><I>Workers in the Lord</I>
+</TABLE>

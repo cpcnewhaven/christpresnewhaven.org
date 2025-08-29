@@ -1,0 +1,35 @@
+<B>Our Current Sermon Series - Exodus:</B>
+<BR>
+<BR>
+Hear a sermon from this series: <A HREF="javascript:parent.location='../featsermonindex.html'">The Ultimate Passover - Exodus 12:1-28</A>
+<BR>
+<BR>
+<TABLE>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='acts3.17-26.htm'">Acts 3:17-26</A><TD><I>The Gospel According to Moses</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex1.1-7.htm'">Exodus
+1:1-7</A><TD><I>God's Sojourners</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex1.8-11.htm'">Exodus
+1:8-11</A><TD><I>God's Strength Revealed in Human Weakness</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex2.1-22.htm'">Exodus
+2:1-22</A><TD><I>...And His Own Received Him Not</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex2.23-3.22.htm'">Exodus
+2:23-3:22</A><TD><I>The God Who Delivers</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex4.1-17.htm'">Exodus
+4:1-17</A><TD><I>The Moses Type</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex4.18-26.htm'">Exodus
+4:18-26</A><TD><I>A Circumcision That Saves</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex4.27-6.1.htm'">Exodus
+4:27-6:1</A><TD><I>Between Promise and FulFillment</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex6.2-7.7.htm'">Exodus
+6:2-7:7</A><TD><I>Play It Again</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex6.28-7.13.htm'">Exodus
+6:28-7:13</A><TD><I>A Salvation Accomplished by God and for His Glory</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex7.14-10.29.htm'">Exodus
+7:14-10:29</A><TD><I>The Tragedy of a Hardened Heart</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex18.1-12.pdf'">Exodus
+18:1-12</A><TD><I>The Confession of a Gentile</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex19.1-8.pdf'">Exodus
+19:1-8</A><TD><I>The Forming of a Holy Nation</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='ex19.8-25.pdf'">Exodus
+19:8-25</A><TD><I>The God of Mount Sinai</I>
+</TABLE>

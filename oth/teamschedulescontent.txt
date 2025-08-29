@@ -1,0 +1,20 @@
+<CENTER>
+<H2>
+Team Schedules
+</H2>
+</CENTER>
+
+<UL>
+<LI><a href="javascript:parent.location='teams/setup.htm'">Setup</a></LI>
+
+<LI><a href="javascript:parent.location='teams/nursery.htm'">Nursery</a></LI>
+
+<LI><a href="javascript:parent.location='teams/wednesday.htm'">Wednesday night set up</a></LI>
+
+<!--
+<LI><a href="javascript:parent.location='teams/welcome.htm'">Welcome</a></LI>
+
+<LI><a href="javascript:parent.location='teams/refreshments.htm'">Refreshments</a></LI>
+-->
+
+</UL>

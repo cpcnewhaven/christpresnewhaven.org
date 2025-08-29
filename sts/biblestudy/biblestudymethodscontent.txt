@@ -1,0 +1,62 @@
+<CENTER>
+<H2>
+Introduction to Bible Study Methods
+<FONT SIZE=-1>
+<BR>(this page is still under construction)
+</FONT>
+</H2>
+</CENTER>
+
+<UL>
+<LI>
+<A HREF="javascript:parent.location='../pamphlets/teachers.html'">An Argument for Qualified Teachers</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='methods/otandnew.html'">Biblical Theology</A>:&nbsp;A Redemptive Historical Approach
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='methods/intromethod.html'">General Introduction to Bible Interpretation</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='methods/general.html'">General Methodology For Interpreting the Bible</A>
+</LI>
+
+<LI>
+<A HREF="javascript:parent.location='methods/theological.html'">Hermeneutics I</A>:&nbsp;A brief clarification of Theological Issues concerning the interpretation of the Bible
+</LI>
+
+<LI>
+Interpreting the <A HREF="javascript:parent.location='methods/narratives.html'">Old Testament Narratives</A>
+</LI>
+
+<LI>
+Interpreting the <A HREF="javascript:parent.location='methods/prophecy.html'">Prophets</A>
+</LI>
+
+<LI>
+Interpreting the <A HREF="javascript:parent.location='methods/gospels.html'">Gospels</A>
+</LI>
+
+<LI>
+Clarification on the Doctrine of Inspiration and Implications
+</LI>
+
+<LI>
+Clarification on the role of the Holy Spirit and Implications
+</LI>
+
+<LI>
+Clarification on the role of the Church and Implications
+</LI>
+
+<LI>
+Clarification on the Doctrine of the "Priesthood of Believers" and Implications
+</LI>
+
+<LI>
+Some Common "Exegetical Fallacies"
+</LI>
+</UL>

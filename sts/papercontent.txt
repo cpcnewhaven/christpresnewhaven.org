@@ -1,0 +1,22 @@
+<CENTER>
+<H2>
+Papers
+</H2>
+</CENTER>
+
+<UL>
+
+<LI>
+A Response to <A HREF="javascript:parent.location='papers/historicism.html'">Historicism</A>
+in Biblical Interpretation</LI>
+
+<LI>
+The <A HREF="javascript:parent.location='papers/pelagian.html'">Pelagian
+Controversy </A>and Nineteenth Century American Religion</LI>
+
+<LI>
+<A HREF="javascript:parent.location='papers/lifeasaworkofart.htm'">When Life is a Work of Art</A>: The Rediscovery of Biblical Callings</LI>
+
+</UL>
+
+

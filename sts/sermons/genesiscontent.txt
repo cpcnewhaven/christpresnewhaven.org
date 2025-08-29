@@ -1,0 +1,66 @@
+<B>In Genesis:</B>
+<TABLE>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen1.1-2.html'">Genesis
+1:1-2</A><TD><I>The Preamble</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen1.3-2.3.html'">Genesis
+1:3-31</A><TD><I>The Rule of Man</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen1.26-31.html'">Genesis
+1:26-31</A><TD><I>The Image of God</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen1.3-2.3.html'">Genesis
+1:3-2:3</A><TD><I>The Lord of History i</I>s <I>King of kings!</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen2.1-3.html'">Genesis
+2:4-17</A><TD><I>Creation Covenant</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen2.18-25.html'">Genesis
+2:18-25</A><TD><I>Marriage Covenant</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen3.7-24.html'">Genesis
+3:8-23</A><TD><I>Covenant Restoration</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen4.html'">Genesis
+4</A><TD><I>From bad to worse &amp; the Common Grace of God which anticipates
+even God's Special Grace</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen5-6.8.html'">Genesis
+5-6:8</A><TD><I>A preserving of a Remnant according to the Election
+of God</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen6.8ff.html'">Genesis
+6:8ff</A><TD><I>Ark of Salvation</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen8.20-29.html'">Genesis
+8:20-29</A><TD><I>Common Grace Covenant</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen9.18-10.html'">Genesis
+9:18-10</A><TD><I>The Table of Nations</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen11.1-10.html'">Genesis
+11:1-10</A><TD><I>The futility of Human enterprise for reaching God</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen11.27-12.9.html'">Genesis
+11:27-12:9</A><TD><I>The Gospel declared beforehand to Abraham</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen12.10-20.html'">Genesis
+12:10-20</A><TD><I>Divine Intervention to preserve the promise</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen13.html'">Genesis
+13</A><TD><I>By Faith and not by sight</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen14.html'">Genesis
+14</A><TD><I>"The Victory is God's"</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen15.html'">Genesis
+15</A><TD><I>Justification by Faith with God as the Guarantor</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen16.html'">Genesis
+16</A><TD><I>A pattern of sin: to seek noble ends by ignoble means</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen17.1-8.html'">Genesis
+17:1-8</A><TD><I>The Condition of the Special Grace Covenant</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen17.9ff.html'">Genesis
+17:9ff</A><TD><I>The Sign of the Special Grace Covenant</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen18.1-15.html'">Genesis
+18:1-15</A><TD><I>What is impossible for Man is possible with God</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen18.16-19.html'">Genesis
+18:16-19</A><TD><I>The Justice of God</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen20.html'">Genesis
+20</A><TD><I>Human Foolishness is no Threat to God's Plan</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen21.html'">Genesis
+21</A><TD><I>Laugh of Faith</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen22.html'">Genesis
+22</A><TD><I>God of Abraham, Praise!</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen23-25.html'">Genesis
+23-25</A><TD><I>God's Faithfulness Realized</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen23.html'">Genesis
+23</A><TD><I>Home!</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen25.html'">Genesis
+25</A><TD><I>Contempt of Esau</I>
+ <TR><TD NOWRAP><A HREF="javascript:parent.location='gen26.34-28.9.html'">Genesis
+26:34-28:9</A><TD><I>A Tapestry of Blessing</I>
+</TABLE>
+	

@@ -1,0 +1,8 @@
+<B>In 1 Corinthians:</B>
+<TABLE>
+ <TR><TD><A HREF="javascript:parent.location='1cor1.18-25.html'">1 Corinthians 1:18-25</A><TD><I>A wisdom that is foolish, and a foolishness that is wise</I>
+ <TR><TD><A HREF="javascript:parent.location='1cor1.26-31.html'">1 Corinthians 1:26-31</A><TD><I>Christ
+is the wisdom of God</I>
+ <TR><TD><A HREF="javascript:parent.location='1cor10.14-22.html'">1 Corinthians 10:14-22</A><TD><I>The
+Lord's Supper</I>
+</TABLE>

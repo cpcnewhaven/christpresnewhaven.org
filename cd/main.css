@@ -1,0 +1,208 @@
+body {
+	background-image: url(images/mainbg.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	background-attachment: fixed
+}
+a:link.anorm {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-decoration: underline;
+	color: #ffffff
+}
+a:visited.anorm {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-decoration: underline;
+	color: #ffffff
+}
+a:active.anorm {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-decoration: underline;
+	color: #ffffff
+}
+a:hover.anorm {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 10pt;
+	text-decoration: underline;
+	color: #207ee3
+}
+a:link.amenu {
+	font-family: arial,helvetica;
+	font-size: 16pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-decoration: none;
+	color: #ffffff
+}
+a:visited.amenu {
+	font-family: arial,helvetica;
+	font-size: 16pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-decoration: none;
+	color: #ffffff
+}
+a:active.amenu {
+	font-family: arial,helvetica;
+	font-size: 16pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-decoration: none;
+	color: #ffffff
+}
+a:hover.amenu {
+	font-family: arial,helvetica;
+	font-size: 16pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 10pt;
+	text-decoration: none;
+	color: #207ee3
+}
+div.head1 {
+	font-family: arial,helvetica;
+	font-size: 16pt;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: normal;
+	line-height: normal;
+	text-align: right;
+	text-decoration: none;
+	color: #ffffff
+}
+div.head2 {
+	font-family: arial,helvetica;
+	font-size: 12pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: normal;
+	text-align: right;
+	text-decoration: none;
+	color: #ffffff
+}
+div.just {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-align: justify;
+	text-decoration: none;
+	color: #ffffff
+}
+div.left {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-align: left;
+	text-decoration: none;
+	color: #ffffff
+}
+div.right {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-align: right;
+	text-decoration: none;
+	color: #ffffff
+}
+div.rightsm {
+	font-family: arial,helvetica;
+	font-size: 7pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 8pt;
+	text-align: right;
+	text-decoration: none;
+	color: #ffffff
+}
+div.center {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 10pt;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff
+}
+div.indent {
+	font-family: arial,helvetica;
+	font-size: 8pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 9pt;
+	text-align: justify;
+	margin-left: 24pt;
+	text-decoration: none;
+	color: #ffffff
+}
+div.foot {
+	font-family: arial,helvetica;
+	font-size: 7pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 8pt;
+	text-align: right;
+	text-decoration: none;
+	color: #ffffff
+}
+div.caption {
+	font-family: arial,helvetica;
+	font-size: 7pt;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 8pt;
+	text-align: center;
+	text-decoration: italic;
+	color: #ffffff
+}
+li {
+	font-family: arial,helvetica;
+	font-size: 9pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 20pt;
+	text-align: justify;
+	text-decoration: none;
+	color: #ffffff
+}

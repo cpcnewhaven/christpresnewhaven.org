@@ -1,0 +1,86 @@
+<CENTER>
+<H2>
+Church Pamphlets
+</H2>
+</CENTER>
+
+<UL>
+<LI>
+Questions Concerning the <A HREF="javascript:parent.location='pamphlets/parachurch.html'">Para-church</A>
+and Its Relation to the Church</LI>
+
+<LI>
+The Pillar &amp; Bulwark of the Truth For the Nations:&nbsp; <A HREF="javascript:parent.location='pamphlets/planting.html'">Church
+Planting</A></LI>
+
+<LI>
+The Laying On of Hands:&nbsp; <A HREF="javascript:parent.location='pamphlets/ordination.html'">Church
+Ordination</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/marriage.pdf'">Marriage and Divorce</A></LI>
+
+<LI>
+A Marriage Enrichment <A HREF="javascript:parent.location='sermons/A_Marriage_Enrichment_Exercise.pdf'">Exercise</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/prescriptions.html'">Three
+Prescriptions</A> For Couples With A Troubled Marriage</LI>
+
+<LI>
+The Utility of <A HREF="javascript:parent.location='pamphlets/creeds.html'">Creeds</A>
+in the Modern Church</LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/baptism.html'">Infant
+Baptism:</A> A Summary of the Biblical Arguments</LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/RCBaptismPolicy.htm'">CPC Policy Concerning Roman Catholic Baptism</A></LI>
+
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/firstamendment.html'">A
+Reaffirmation</A> of Religious Liberty and the Civil Society</LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/The Passion of Christ Movie.pdf'">A Pastoral Letter Concerning <I>The Passion of the Christ</I> Movie</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/miracles.html'">Miracles</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/teachers.html'">An
+Argument for Qualified Teachers</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/workmatters.html'">Your
+Work Matters to God</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/balancelives.html'">Living
+Balanced Lives</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/morality.html'">Morality
+in Public Life</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/strangelove2.html'">Strange
+Love</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/culturemand.html'">Cultural
+Mandate</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/Evangelism.html'">Evangelism</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='pamphlets/preaching.html'">Thoughts
+on Preaching</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='http://www.pcanet.org/history/documents/pastoralletter.html'">A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today</A></LI>
+
+</UL>

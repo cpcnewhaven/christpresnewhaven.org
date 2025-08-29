@@ -1,0 +1,26 @@
+<!-- SEGMENT is repeated often -->
+<BR>
+<IMG SRC="../../../images/blueshim.gif" ALIGN=left WIDTH=575 HEIGHT=6 BORDER=0 ALT="Horizontal Rule">
+<BR CLEAR=LEFT>
+<TABLE cellpadding=1 cellspacing=0 width=575>
+<TBODY>
+<TR>
+<TD WIDTH=119>
+<A HREF="#cpctop"><IMG SRC="../../../images/ftrtop.gif" ALIGN=center WIDTH=119 HEIGHT=22 BORDER=0 ALT="Back to the Top"></A>
+</TD>
+<TD></TD>
+<TD WIDTH=118>
+<A HREF="javascript:parent.location='../../../sitemapframes.asp'"><IMG SRC="../../../images/ftrmap.gif" ALIGN=center WIDTH=118 HEIGHT=22 BORDER=0 ALT="Site Map"></A>
+</TD>
+<TD></TD>
+<TD WIDTH=118>
+<A HREF="mailto:cpc.ilona@snet.net"><IMG SRC="../../../images/ftreml.gif" ALIGN=center WIDTH=118 HEIGHT=22 BORDER=0 ALT="Email"></A>
+</TD>
+<TD></TD>
+<TD WIDTH=118>
+<A HREF="javascript:parent.location='../../../index.html'"><IMG SRC="../../../images/ftrhom.gif" ALIGN=center WIDTH=118 HEIGHT=22 BORDER=0 ALT="Home"></A>
+</TD>
+</TR>
+</TBODY>
+</TABLE>
+<!-- END OF SEGMENT -->

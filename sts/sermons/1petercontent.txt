@@ -1,0 +1,15 @@
+<B>In 1 Peter:</B>
+<TABLE>
+ <TR><TD><A HREF="javascript:parent.location='1peter3.1ff.html'">1 Peter 3:1ff</A><TD><I>"Men
+are from Mars, Women are</I> <I>from Venus"...Really?</I>
+ <TR><TD><A HREF="javascript:parent.location='1peter3.1-6.html'">1 Peter 3:1-6</A><TD><I>Daughters of
+Sarah</I>
+ <TR><TD><A HREF="javascript:parent.location='1peter3.7.html'">1 Peter 3:7</A><TD><I>An Understanding
+Husband</I>
+ <TR><TD><A HREF="javascript:parent.location='1peter5.1-4.html'">1 Peter 5:1-4</A><TD><I>Working Together,
+</I>Part
+One: <I>Elders</I>
+ <TR><TD><A HREF="javascript:parent.location='1peter5.5.html'">1 Peter 5:5</A><TD><I>Working Together,
+</I>Part
+Two: <I>Younger Christians to their Elders</I>
+</TABLE>

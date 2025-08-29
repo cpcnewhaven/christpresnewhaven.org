@@ -1,0 +1,20 @@
+<B>On Wisdom (Including Proverbs):</B>
+<TABLE>
+ <TR><TD><A HREF="javascript:parent.location='james3.13-18.html'">James 3:13-18</A><TD><I>Who is Wise?</I>
+ <TR><TD><A HREF="javascript:parent.location='1cor1.18-25.html'">1 Corinthians 1:18-25</A><TD><I>A Wisdom that is Foolish, and a Foolishness that is Wise</I>
+ <TR><TD><A HREF="javascript:parent.location='1cor1.26-31.html'">1 Corinthians 1:26-31</A><TD><I>Christ is the Wisdom of God</I>
+ <TR><TD><A HREF="javascript:parent.location='1kings4.29-34.html'">1 Kings 4:29-34</A><TD><I>God's Gift of Wisdom to Soloman to do God's Will</I>
+ <TR><TD><A HREF="javascript:parent.location='prov1.7.html'">Proverbs 1:7</A><TD><I>The first Proverb of all other Proverbs - The Fear of God</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.13.13-14.html'">Proverbs 13:13-14</A><TD><I>The Spring of Life: God's Word</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.13.20-21.html'">Proverbs 13:20-21</A><TD><I>Choosing our friends carefully</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.14.31.html'">Proverbs 14:31</A><TD><I>Poverty and Wealth</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.15.12.html'">Proverbs 15:12</A><TD><I>The Wisdom of Counsel</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.16.3-4.html'">Proverbs 16:3-4</A><TD><I>Rolling our Burdens Onto God - God's Providence Applied</I>
+ <TR><TD><A HREF="javascript:parent.location='prov16.18-19.html'">Proverbs 16:18-19</A><TD><I>Humility</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.17.22.html'">Proverbs 17:22</A><TD><I>A Cheerful Heart is Good Medicine</I>
+ <TR><TD><A HREF="javascript:parent.location='prov%2018.9.html'">Proverbs 18:9</A><TD><I>The Value of Work - Avoiding the Time Clock Mentality</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.18.10-11.html'">Proverbs 18:10-11</A><TD><I>True and False Security</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.18.20-21.html'">Proverbs 18:20-21</A><TD><I>The power of the tongue</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.21.5.html'">Proverbs 21:5</A><TD><I>"Haste makes Waste"</I>
+ <TR><TD><A HREF="javascript:parent.location='prov.23.17-18.html'">Proverbs 23:17-18</A><TD><I>The Prosperity of the Wicked - a foolish temptation to envy!</I>
+</TABLE>

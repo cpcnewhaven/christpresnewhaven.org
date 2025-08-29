@@ -1,0 +1,48 @@
+<CENTER>
+<H2>
+Syllabi for Select CPC Classes
+<BR><FONT SIZE=-1>
+Various combinations of classes (including many not listed here) are taught in each semester.  
+For the (hopefully) current class list, return to the 
+<A HREF="javascript:parent.location='../../stsindex.html#classes'">study center page</A>.)
+</FONT>
+</H2>
+</CENTER>
+<UL>
+<LI><B><A HREF="javascript:parent.location='biblestudy/confessionaltheology.html'">A Study in Confessional Theology</A></B> - The intention of this class will be to construct a theological system that is consistent with the revelation of God as contained in the Old and New Testament scripture.  However, we will not be doing it alone!  We will utilize that unbroken tradition of interpretation distinguished as the classic evangelical and reformed faith.  The course assumes a confessional approach rather than a sceptical/apologetic one.  Continuity within the historic reformed tradition will be illustrated from our primary text, <U>The Westminster Confession of Faith</U>, together with readings which seek to span the duration of church history.  Lessons are available on the website by clicking the link above.
+<LI><B>Marriage Seminar</B> - <I>TBA</I>
+<LI><B>Servant Leader Training</B> - <I>TBA</I>
+</UL>
+
+
+<CENTER>
+<H2>
+Adult Sunday School Classes
+<BR>
+</H2>
+</CENTER>
+<UL>
+<LI><B><A HREF="javascript:parent.location='classes/introtocpcindex.html'">Introduction to CPC & Reformed Worldview</A></B> - more than a intro to CPC, this class will cover a whole range of topics that constitute a Christian worldview, including an introduction to the gospel, interpreting scripture, reformed faith, worship, calling/vocation, music, etc.
+<LI><B>Gospel Transformation Year One</B> - a study focusing on what matters most - our ongoing need for the transforming power of the gospel.  It includes believing our justification, true repentance, forgiveness, compassion, and much more.
+<LI><B>Gospel Transformation Year Two</B> - continued study of the above.
+<LI><B>Church History (Spring 2004)</B> - a 4-week mini-course instructed by Darren Provost.
+</UL>
+
+<CENTER>
+<H2>
+Other Biblical Studies Classes
+</H2>
+</CENTER>
+<UL>
+<LI>
+<B><A HREF="javascript:parent.location='biblestudy/ecclesiology.html'">Reformed Ecclesiology (GCTS)</A></B>
+</LI>
+<LI>
+<B><A HREF="javascript:parent.location='biblestudy/biblestudymethods.html'">Introduction
+to Bible Study Methods</A></B>
+</LI>
+<LI>
+<B><A HREF="javascript:parent.location='biblestudy/foundations.html'">Foundations
+to the Christian Faith</A></B>
+</LI>
+</UL>

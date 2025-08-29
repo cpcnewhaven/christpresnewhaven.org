@@ -1,0 +1,28 @@
+<B>In Revelation:</B>
+<TABLE>
+ <tr><td nowrap><a href="javascript:parent.location='rev1-4.html'">Revelation
+1:4-8</a><td><i>The
+God of our Salvation</i> <br>
+ <tr><td nowrap><a href="javascript:parent.location='rev1-10.html'">Revelation
+1:10-18</a><td><i>The
+Glorified Christ</i> <br>
+ <tr><td nowrap><a href="javascript:parent.location='rev10-1.html'">Revelation
+10:1-11:18</a><td><i>The
+Bittersweet Prophecy of God in the Gospel</i> <br>
+ <tr><td nowrap><a href="javascript:parent.location='rev11-14.html'">Revelation
+11:14-19</a><td><i>Sounding
+of the Final Trumpet: Thy Kingdom Come!</i> <br>
+ <tr><td nowrap><a href="javascript:parent.location='rev13-1.html'">Revelation
+13:1-15:4</a><td><i>The
+Victory Song of Easter: A Redemptive Historical Interpretation</i> <br>
+ <tr><td nowrap><a href="javascript:parent.location='rev15-5.html'">Revelation 15:1,5-16:21</a><td><i>The
+Seven Bowls of Judgment</i> <br>
+ <tr><td nowrap><a href="javascript:parent.location='rev17-1.html'">Revelation
+17:1-18</a><td><i>Final
+Judgment of the Anti-Christ</i> <br>
+ <tr><td nowrap><a href="javascript:parent.location='rev18-1.html'">Revelation
+18:1-19:10</a><td><i>Final
+Judgment of the Anti-Christ</i>
+ <tr><td nowrap><a href="javascript:parent.location='rev22.16-21.pdf'">Revelation
+22:16-21</a><td><i>Come Lord Jesus!</i>
+</TABLE>

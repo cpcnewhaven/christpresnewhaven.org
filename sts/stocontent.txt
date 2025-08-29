@@ -1,0 +1,55 @@
+<CENTER>
+<H2>
+Prayer Letters
+</H2>
+</CENTER>
+
+<UL>
+<LI>
+<A HREF="javascript:parent.location='sto/freshpresence.html'">The
+Fresh Presence of God</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/heypastor.html'">Hey Pastor...and
+then it came!</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/blessedarethehumble.html'">Blessed
+are the Humble</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/aletter.html'">A Witness
+to the Nations</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/bornagainpl.html'">Even
+In Our Dying, We Can Be Born Again!</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/newsocietypl.html'">The
+New Society</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/pivotalpl.html'">A Significant
+and Pivotal Year</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/faithpl.html'">What Does
+It Mean to Have Faith?</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/familypl.html'">Developing
+a Plan For A Stronger Family</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/costpl.html'">The Cost
+of Discipleship</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/baptismpl.html'">The
+Privilege of Christian Baptism</A></LI>
+
+<LI>
+<A HREF="javascript:parent.location='sto/oldtruthpl.html'">And
+Old Truth Brought Home Again</A></LI>
+</UL>.

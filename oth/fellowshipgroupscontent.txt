@@ -1,0 +1,287 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="oct13_specfellowship_files/filelist.xml">
+<title>Church Wide Prayer </title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Christ Presbyterian Church</o:Author>
+  <o:Template>NORMAL</o:Template>
+  <o:LastAuthor>yalehep</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>15</o:TotalTime>
+  <o:Created>2004-10-19T16:27:00Z</o:Created>
+  <o:LastSaved>2004-10-19T16:27:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>124</o:Words>
+  <o:Characters>711</o:Characters>
+  <o:Lines>5</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>834</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1805197378;
+	mso-list-template-ids:1947896790;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p align=center style='text-align:center'><b><u><span style='font-size:13.5pt;
+color:blue'>Fellowship at CPC </span></u></b></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='margin-left:63.75pt;border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;height:49.15pt'>
+  <td width=480 valign=top style='width:360.05pt;padding:0in 0in 0in 0in;
+  height:49.15pt'>
+  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
+  punctuation-wrap:simple;text-autospace:none'><b><span style='font-size:10.0pt;
+  color:black;mso-font-kerning:14.0pt'>Women’s Ministry <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;mso-pagination:
+  none;mso-layout-grid-align:none;punctuation-wrap:simple;text-autospace:none'><b><span
+  style='font-size:10.0pt;color:black;mso-font-kerning:14.0pt'>Prayer &amp;
+  Accountability</span></b><span style='font-size:10.0pt;color:black;
+  mso-font-kerning:14.0pt'> <i><o:p></o:p></i></span></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;mso-pagination:
+  none;mso-layout-grid-align:none;punctuation-wrap:simple;text-autospace:none'><b><span
+  style='font-size:10.0pt;color:black;mso-font-kerning:14.0pt'>Women’s
+  Retreat—April 2005<span style='mso-spacerun:yes'>  </span>- </span></b><i><span
+  style='font-size:10.0pt;color:black;mso-font-kerning:14.0pt'>more details to
+  follow.<o:p></o:p></span></i></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Special<span style='mso-spacerun:yes'> 
+  </span>Social Events</span></b><i><span style='font-size:10.0pt;line-height:
+  125%;color:black;mso-font-kerning:14.0pt'>—throughout the year</span></i><span
+  style='font-size:10.0pt;line-height:125%'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:78.65pt'>
+  <td width=480 valign=top style='width:360.05pt;padding:0in 0in 0in 0in;
+  height:78.65pt'>
+  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
+  punctuation-wrap:simple;text-autospace:none'><b><span style='font-size:10.0pt;
+  color:black;mso-font-kerning:14.0pt'>Men’s Ministry<span
+  style='mso-spacerun:yes'>  </span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Prayer &amp; Accountability</span></b><i><span
+  style='font-size:10.0pt;line-height:125%;color:black;mso-font-kerning:14.0pt'>
+  <o:p></o:p></span></i></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Men’s Retreat—Godliness for Guys—October
+  29-30, 2004—Lakeside retreat on <span class=SpellE>Onata</span> Lake in the
+  Berkshire Mountains—Pittsfield, Massachusetts—see brochure in the foyer
+  area.<span style='mso-spacerun:yes'>   </span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Special<span style='mso-spacerun:yes'> 
+  </span>Social Events</span></b><i><span style='font-size:10.0pt;line-height:
+  125%;color:black;mso-font-kerning:14.0pt'>—throughout the year</span></i><span
+  style='font-size:10.0pt;line-height:125%'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:83.55pt'>
+  <td width=480 valign=top style='width:360.05pt;padding:0in 0in 0in 0in;
+  height:83.55pt'>
+  <p class=MsoNormal style='line-height:125%;mso-pagination:none;mso-layout-grid-align:
+  none;punctuation-wrap:simple;text-autospace:none'><b><span style='font-size:
+  10.0pt;line-height:125%;color:black;mso-font-kerning:14.0pt'>An evening with
+  the Graham’s— </span></b><i><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>meeting dates TBD<o:p></o:p></span></i></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Parents of Toddlers <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Parents of Pre-school &amp; Elementary
+  Children <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Parents of Teenage Children<span
+  style='mso-spacerun:yes'>  </span></span></b><i><span style='font-size:10.0pt;
+  line-height:125%;color:black;mso-font-kerning:14.0pt'><span
+  style='mso-spacerun:yes'> </span></span></i><span style='font-size:10.0pt;
+  line-height:125%;color:black;mso-font-kerning:14.0pt'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Young Married <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Graduate Student/Professional <o:p></o:p></span></b></p>
+  <p class=MsoNormal align=right style='text-align:right;line-height:125%;
+  mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:10.0pt;line-height:125%'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:81.1pt'>
+  <td width=480 valign=top style='width:360.05pt;padding:0in 0in 0in 0in;
+  height:81.1pt'>
+  <p class=MsoNormal style='mso-pagination:none;mso-layout-grid-align:none;
+  punctuation-wrap:simple;text-autospace:none'><b><span style='font-size:10.0pt;
+  color:black;mso-font-kerning:14.0pt'>Highlighted fellowship events </span></b><i><span
+  style='font-size:10.0pt;color:black;mso-font-kerning:14.0pt'>include<span
+  style='mso-spacerun:yes'>  </span></span></i><b><span style='font-size:10.0pt;
+  color:black;mso-font-kerning:14.0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Monthly fellowship meals/picnics—with
+  various themes</span></b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'> <i><o:p></o:p></i></span></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Elders Christmas Party in December<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><st1:place><st1:PlaceName><b><span style='font-size:
+    10.0pt;line-height:125%;color:black;mso-font-kerning:14.0pt'>Monthly</span></b></st1:PlaceName><b><span
+   style='font-size:10.0pt;line-height:125%;color:black;mso-font-kerning:14.0pt'>
+   </span></b><st1:PlaceType><b><span style='font-size:10.0pt;line-height:125%;
+    color:black;mso-font-kerning:14.0pt'>Church</span></b></st1:PlaceType></st1:place><b><span
+  style='font-size:10.0pt;line-height:125%;color:black;mso-font-kerning:14.0pt'>
+  Wide Prayers<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Movie nights at CPC <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;text-indent:-.25in;line-height:
+  125%;mso-pagination:none;mso-layout-grid-align:none;punctuation-wrap:simple;
+  text-autospace:none'><b><span style='font-size:10.0pt;line-height:125%;
+  color:black;mso-font-kerning:14.0pt'>Various outings— <span class=SpellE>ie</span>.
+  canoeing, bicycling</span></b><span style='font-size:10.0pt;line-height:125%'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

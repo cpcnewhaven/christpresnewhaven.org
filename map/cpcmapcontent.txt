@@ -1,0 +1,27 @@
+<CENTER>
+<H2>
+Maps and Directions
+</H2>
+</CENTER>
+
+<CENTER>
+<H3>
+CPC Chapel and Study Center
+</H3>
+</CENTER>
+
+<UL>
+<LI><u>From I-95 North</u>, take the I-91 N exit, exit 48, towards Hartford.  The exit will be on the left side.  Merge onto I-91 N and follow the directions below from I-91.
+</LI>
+<LI><u>From I-95 South</u>, take the I-91 N exit, exit 48, towards Hartford.  Keep left at the fork in the ramp.  Merge onto I-91 N and follow the directions below from I-91.
+</LI>
+<LI><u>From I-91 (North or South)</u>, take the Trumbull Street exit, exit 3.  Follow Trumbull Street straight through Orange Street up to Whitney Avenue. Take a right onto Whitney Avenue.  We are located one block down, on the right hand side, on the corner of Bradley and Whitney Avenue.  Note that Bradley is a one-way street and we are located right across from the Peabody Museum.  The entrance to the parking lot is right after Bradley Street.
+</LI>
+</UL>
+
+<p align="center">
+<a
+href="javascript:parent.location='http://www.mapquest.com/cgi-bin/mqtrip?link=btwn%2Ftwn-ddir_na_basic_main&amp;reset=reset&amp;uid=unue03d9ocd6p1ve%3A8n1ftahat&amp;tq_source=expr&amp;ADDR_0=&amp;CITY_0=&amp;STATE_0=&amp;ZIP_0=&amp;CC_0=US&amp;ADDR_1=135+Whitney+Avenue&amp;CITY_1=New+Haven&amp;STATE_1=CT&amp;ZIP_1=06511&amp;CC_1=US&amp;dir=Get+Directions'">Driving
+Directions from Mapquest</a><br>
+(just type your address into the space provided)
+</p>

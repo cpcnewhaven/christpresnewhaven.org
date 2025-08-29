@@ -1,0 +1,39 @@
+<CENTER>
+<H2>
+Children and Youth at CPC
+</H2>
+</CENTER>
+
+<UL>
+<!--
+<LI><A HREF="javascript:parent.location='mindirect/staffindex.html'">Staff</A></LI>
+
+<LI><A HREF="javascript:parent.location='mindirect/servantleadersindex.html'">Elders, Servant Leader Board, Servant Team Leaders, and Teachers</A></LI>
+
+
+<LI><A HREF="javascript:parent.location='mindirect/pom.html'">Philosophy of Ministry</A></LI>
+
+
+<LI><A HREF="javascript:parent.location='mindirect/connectional.html'">A Connectional Model for Reaching Greater New Haven</A></LI>
+
+<LI><A HREF="javascript:parent.location='mindirect/teambuilding.html'">The Dynamics of Team Building</A></LI>
+
+<LI><A HREF="javascript:parent.location='mindirect/curriculum.html'">Guide to General Curriculum</A></LI>
+
+<LI><A HREF="javascript:parent.location='mindirect/membership.html'">Membership
+Covenant</A></LI>
+
+<LI><A HREF="javascript:parent.location='mindirect/visit.html'">Pastoral Visitation</A></LI>
+-->
+
+<LI><A HREF="javascript:parent.location='../bas/childrencommunicantletter.htm'">Letter to
+Children Wanting to Profess Faith</A></LI>
+
+<LI><A HREF="javascript:parent.location='mindirect/parentletter.html'">Letter to
+Parents of Children Seeking Admission to The Lord's Table</A></LI>
+
+<LI><A HREF="javascript:parent.location='mindirect/childrenmin.html'">Children Ministry at CPC</A></LI>
+
+<LI><A HREF="javascript:parent.location='mindirect/youthmin.htm'">Youth Ministry at CPC</A></LI>
+</UL>
+

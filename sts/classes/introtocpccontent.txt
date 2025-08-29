@@ -1,0 +1,41 @@
+<CENTER>
+<H2>
+Introduction to CPC & Reformed Worldview
+</H2>
+</CENTER>
+
+<UL>
+<LI>
+<A HREF="javascript:parent.location='introtocpc/Intro to CPC - Class Description.pdf'">Class Description</A>
+</LI>
+<LI>
+<A HREF="javascript:parent.location='../../abt/CPCIntroduction.pdf'">Introduction to CPC Slide Show</A>
+</LI>
+<LI>
+Study Guides
+</LI>
+<UL>
+<LI>
+<A HREF="javascript:parent.location='introtocpc/Intro to CPC - Module 1.pdf'">Module 1 - Introduction to CPC</A>
+</LI>
+<LI>
+<A HREF="javascript:parent.location='introtocpc/Intro to CPC - Module 2.pdf'">Module 2 - A Christian Worldview</A>
+</LI>
+<LI>
+<A HREF="javascript:parent.location='introtocpc/Intro to CPC - Module 3.pdf'">Module 3 - CPC's "Reformed" and "Prebyterian" Distinctiveness</A>
+</LI>
+</UL>
+<LI>
+<A HREF="javascript:parent.location='../../bas/membershipatCPC.htm'">Membership at CPC</A>
+</LI>
+<LI>
+<A HREF="javascript:parent.location='../../stsindex.html'">Introduction to the CPC Study Center</A>
+</LI>
+<LI>
+<A HREF="javascript:parent.location='../../bas/childrencommunicantletter.htm'">Letter to Covenant Children Seeking Communicant Membership</A>
+</LI>
+<LI>
+<A HREF="javascript:parent.location='../../sts/pamphlets/RCBaptismPolicy.htm'">CPC Policy Concerning Roman Catholic Baptism</A>
+</LI>
+</UL>
+

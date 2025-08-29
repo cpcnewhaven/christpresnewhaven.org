@@ -1,0 +1,53 @@
+<CENTER>
+<H2>
+Links to Other Resources
+</H2>
+</CENTER>
+
+<DL>
+
+<DT><A HREF="javascript:parent.location='http://www.pcanet.org'">Presbyterian Church In American Homepage</A>
+
+<DT><A HREF="javascript:parent.location='http://christianity.com/pcanews'">PCA News</A>
+
+<DT><A HREF="javascript:parent.location='http://www.wts.edu/resources/index.html'">Westminster Internet Resource Directory</A>
+
+<DT><A HREF="javascript:parent.location='http://www.reformed.org/documents/'">Historic Church Documents</A>
+
+<DT><A HREF="javascript:parent.location='http://www.reformed.org/documents/wlc_w_proofs/WLC_frames.html'">Westminster Larger Catechism</A>
+
+<DT><A HREF="javascript:parent.location='http://www.alliancenet.org/intro/links.html'">Alliance of Confessing Evangelicals - Links
+</A>
+
+<DT><A HREF="javascript:parent.location='http://www.christpresbyterian.org/links/'">Christ Presbyterian Church (Flowery Mound, TX) - Links</A>
+
+<DT><A HREF="javascript:parent.location='http://www.twoagepress.org/'">Two Age Press (Works of Meredith Kline)
+</A>
+
+<DT><A HREF="javascript:parent.location='http://www.ruf.org/sounds/sounds.htm'">Reformed University Fellowship Music Page</A>
+
+<DT><A HREF="javascript:parent.location='http://www.capo.org/'">Center for the Advancement of Paleo Orthodoxy Home Page</A>
+
+<DT><A HREF="javascript:parent.location='http://www.reformed.org/index.html'">Center for Reformed Theology and Apologetics</A>
+
+<DT><A HREF="javascript:parent.location='http://www.wts.edu/'">Westminster Theological Seminary</A>
+
+</DL>
+
+<CENTER>
+<H2>
+Links to Related Churches
+</H2>
+</CENTER>
+
+<DL>
+
+<DT><A HREF="javascript:parent.location='http://www.ChristCPC.org'">Christ Community Presbyterian Church (West Hartford, CT)</A>
+
+<DT><A HREF="javascript:parent.location='http://www.manchesterpca.org'">The Presbyterian Church of Manchester (Manchester, CT)</A>
+
+<DT><A HREF="javascript:parent.location='http://www.presbyterianchurchofcoventry.org'">The Presbyterian Church of Coventry (Coventry, CT)</A>
+
+<DT><A HREF="javascript:parent.location='http://www.trinitypresri.org'">Trinity Presbyterian Church (Providence, RI)</A>
+
+</DL>

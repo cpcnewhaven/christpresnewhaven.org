@@ -1,0 +1,14 @@
+open ftp.christpresnewhaven.org
+D30028837
+cpccol110
+bin
+cd oth
+put bulletinannouncements.htm bulletinannouncements.htm
+put churchcalendar.htm churchcalendar.htm
+cd bulletinannouncements_files
+lcd bulletinannouncements_files
+mput *.*
+cd ../churchcalendar_files
+lcd ../churchcalendar_files
+mput *.*
+bye

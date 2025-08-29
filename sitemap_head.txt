@@ -1,0 +1,23 @@
+<%
+Option Explicit
+%>
+<html>
+<TITLE>Christ Presbyterian Church, Site Map</TITLE><head>
+</head>
+<body>
+<A NAME="cpctop">
+<TABLE WIDTH=575 BORDER=0>
+<TR>
+<TD>
+<H2>
+Site Map
+</H2>
+<%
+Dim i, j
+Dim arIndex, arTitle, arLink, arLevel, arChild, arDisp
+Dim arOverRide
+Dim dispLev
+Dim strPad
+Dim strExpand
+Dim strNewQS
+%>

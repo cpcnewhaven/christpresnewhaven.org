@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<BODY>
+<center><h1>Guestbook</h1></center>
+<center><a href=/guestbook.html>Add an entry to the guestbook</a></center><br><br>
+<!--#exec cgi="/cgi-pub/guestview.pl" -->
+</BODY>
+</HEAD>
+</HTML>

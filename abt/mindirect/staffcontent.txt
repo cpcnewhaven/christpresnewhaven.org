@@ -1,0 +1,28 @@
+<CENTER>
+<H2>
+Staff
+</H2>
+</CENTER>
+
+<UL>
+
+<LI>
+<B>Pastor:</B> Preston Graham<BR><A HREF="mailto:cpc.preston@snet.net">cpc.preston@snet.net</A>, (203) 777-6960 Press #2
+<BR>&nbsp
+</LI>
+
+<LI>
+<B>Assistant Pastor / College Ministry:</B> Clay Daniel<BR><A HREF="mailto:cpc.clay@snet.net">cpc.clay@snet.net</A>, (203) 777-6960 Press #6
+<BR>&nbsp
+</LI>
+
+<LI>
+<B>Worship:</B> Daniel Kellogg & Assistant, Hsing-ay Kellogg<BR><A HREF="mailto:DanielKellogg@sbcglobal.net">danielkellogg@sbcglobal.net</A>, (203) 777-6960 Press #3
+<BR>&nbsp
+</LI>
+
+<LI>
+<B>Administrative Assistant:</B> Ilona McGowan<BR><A HREF="mailto:cpc.ilona@snet.net">cpc.ilona@snet.net</A>, (203) 777-6960 Press #1
+</LI>
+
+</UL>

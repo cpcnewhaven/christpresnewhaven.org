@@ -1,0 +1,55 @@
+<%
+Redim arOverRide(ubound(arIndex))
+for i = lbound(arIndex) to ubound(arIndex)
+    arOverRide(i) = CInt(Request.QueryString("ID" & arIndex(i)))
+    if arOverRide(i) = 1 then
+	arDisp(i) = arDisp(i) * -1
+    end if
+next
+dispLev = 1
+for i = lbound(arTitle) to ubound(arTitle)
+    if arLevel(i) <= dispLev then
+	dispLev = arLevel(i)
+	strPad = ""
+	for j = 1 to dispLev - 1
+	    strPad = strPad & "&nbsp&nbsp&nbsp&nbsp"
+	next
+    end if
+    if arLevel(i) = dispLev then
+	strNewQS = "sitemap.asp"
+	for j = lbound(arOverRide) to ubound(arOverRide)
+	    if arOverRide(j) = 1 or j = i then
+		if strNewQS = "sitemap.asp" then
+		    if (j = i and arOverRide(j) = 0) or j <> i then
+		    	strNewQS = strNewQS & "?ID" & arIndex(j) & "=1"
+		    end if
+		else
+		    if (j = i and arOverRide(j) = 0) or j <> i then
+		    	strNewQS = strNewQS & "&ID" & arIndex(j) & "=1"
+		    end if
+		end if
+	    end if
+	next
+	if arChild(i) and arDisp(i) = 1 then
+	    strExpand = "<a name=""anchor" & arIndex(i) & """ style=""text-decoration:none;color:black;font:bold"" href=" & strNewQS & "#anchor" & arIndex(i) & ">-</a>"
+	elseif arChild(i) and arDisp(i) = -1 then
+	    strExpand = "<a name=""anchor" & arIndex(i) & """ style=""text-decoration:none;color:black;font:bold"" href=" & strNewQS & "#anchor" & arIndex(i) & ">+</a>"
+	else
+	    strExpand = "&nbsp"
+	end if
+%>
+	<tt><%=strPad%><%=strExpand%>&nbsp</tt><%=arTitle(i)%>&nbsp<a href=<%=arLink(i)%>>go</a><br>
+<%
+	if arChild(i) and arDisp(i) = 1 then
+	    dispLev = dispLev + 1
+	end if
+    end if
+next
+%>
+</TD>
+</TR>
+</TABLE>
+</A>
+<!--#include file="footer.txt" -->
+</body>
+</html>

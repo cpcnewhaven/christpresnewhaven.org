@@ -1,0 +1,7 @@
+<B>On Church Sacraments:</B>
+<TABLE>
+ <TR><TD><A HREF="javascript:parent.location='1cor10.14-22.html'">1 Corinthians 10:14-22</A><TD><I>The Lord's Supper</I>
+ <TR><TD><A HREF="javascript:parent.location='col2.11-13.html'">Colossians 2:11-13</A><TD><I>Christian Baptism</I>
+ <TR><TD><A HREF="javascript:parent.location='rom3.21-26.html'">Romans 3:21-26</A><TD><I>The Lord's Supper</I>
+ <TR><TD><A HREF="javascript:parent.location='rom6.3-4.html'">Romans 6:3-4</A><TD><I>Christian Baptism</I>
+</TABLE>

@@ -1,0 +1,10 @@
+open ftp.christpresnewhaven.org
+D30028837
+cpccol110
+bin
+cd oth
+put churchcalendar.htm churchcalendar.htm
+cd churchcalendar_files
+lcd churchcalendar_files
+mput *.*
+bye

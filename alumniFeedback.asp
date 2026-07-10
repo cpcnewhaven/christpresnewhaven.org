@@ -4,7 +4,7 @@
 'Sending form responses in email for now...
 Set myMail=CreateObject("CDO.Message")
 myMail.Subject="Alumni Survey Response"
-myMail.From="webmaster@christpresnewhaven.org"
+myMail.From="webmaster@cpcnewhaven.org"
 myMail.To="katielevesque@hotmail.com, left365@yahoo.com"
 
 Body = "Alumni Survey Response <br><br>"
